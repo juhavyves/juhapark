@@ -263,7 +263,7 @@ header {
 .verticalline2 {
     z-index: -1;
     position: absolute;
-    top:0;
+    top: 0;
     left: 55vw;
     height: 100vh;
 }
@@ -275,7 +275,7 @@ header {
     height: 100vh;
 }
 
-.menu-line .line img {
+.menu-line img {
     position: absolute;
     height: 100vh;
 }
@@ -1303,7 +1303,7 @@ header {
     }
     .verticalline2 {
         left: 50%;
-        transform: translate(-50%, -50%);
+        transform: translate(-50%, 0);
     }
 
 
@@ -1391,6 +1391,31 @@ header {
         top: 462.3vw;
     }
     
+    .soundgarden3 {
+        width: 90vw;
+    }
+    .soundgarden4 {
+        top: 52vw;
+        width: 90vw;
+
+    }
+    .soundgarden5 {
+        top:108vw;
+        width: 90vw;
+    }
+    .soundgarden6 {
+        top: 164.3vw;
+        width: 90vw;
+    }
+
+
+
+
+
+
+
+
+
 
     .thestarslikedust2 {
         top: 102vw;
@@ -1482,6 +1507,12 @@ header {
         width: 300vw;
         left: -110vw;
     }
+
+    
+
+
+
+
 
 
     .main-container{
