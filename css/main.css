@@ -344,116 +344,143 @@ header {
 .soundgarden2 {
     position: absolute;
     top:4vw;
-    left: 4.7vw;
+    /* left: 4.7vw; */
+    left: 68%;
+    transform: translate(-68%, 0);
+
     width: 77vw;
 }
 
 .soundgarden3 {
     position: absolute;
     top: 0vw;
-    left: 4vw;
+    /* left: 4vw; */
+    left: 50%;
+    transform: translate(-50%, 0);
+
     width: 76vw;
 }
 .soundgarden4 {
     position: absolute;
     top:45vw;
-    left: 4vw;
+    /* left: 4vw; */
+    left: 50%;
+    transform: translate(-50%, 0);
+
     width: 76vw;
 }
 .soundgarden5 {
     position: absolute;
     top:93vw;
-    left: 4vw;
+    left: 50%;
+    transform: translate(-50%, 0);
+
     width: 76vw;
 }
 .soundgarden6 {
     position: absolute;
     top:141vw;
-    left: 4vw;
+    left: 50%;
+    transform: translate(-50%, 0);
+
     width: 76vw;
 }
 .soundgarden7 {
     position: absolute;
     top:189vw;
-    left: 4vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 76vw;
 }
 .soundgarden8 {
     position: absolute;
     top:237vw;
-    left: 4vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 76vw;
 }
 .soundgarden9 {
     position: absolute;
     top:285vw;
-    left: 26vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 30vw;
 }
 .soundgarden10 {
     position: absolute;
     top:325vw;
-    left: 26vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 30vw;
 }
 .soundgarden11 {
     position: absolute;
     top:365vw;
-    left: 4vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 76vw;
 }
 .soundgarden12 {
     position: absolute;
     top:410vw;
-    left: 4vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 76vw;
 }
 .soundgarden13 {
     position: absolute;
     top:454vw;
-    left: 15vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 54vw;
 }
 .soundgarden14 {
     position: absolute;
     top:496vw;
-    left: 22vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 40vw;
 }
 .soundgarden15 {
     position: absolute;
     top:537vw;
-    left: 15vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 54vw;
 }
 .soundgarden16 {
     position: absolute;
     top:581vw;
-    left: 15vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 54vw;
 }
 .soundgarden17 {
     position: absolute;
     top:625vw;
-    left: 15vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 54vw;
 }
 .soundgarden18 {
     position: absolute;
     top:669vw;
-    left: 22vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 40vw;
 }
 .soundgarden19 {
     position: absolute;
     top:710vw;
-    left: 22vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 40vw;
 }
 .soundgarden20 {
     position: absolute;
     top:780vw;
-    left: 22vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 40vw;
 }
 
@@ -560,80 +587,85 @@ header {
 .kaine2 {
     position: absolute;
     top:52.3vw;
-    left: 4.7vw;
+    /* left: 4.7vw; */
+    left: 68%;
+    transform: translate(-68%, 0);
     width: 77vw;
 
 }
 
-
-/* .kaine2 {
-    position: absolute;
-    top: 101vw;
-    left: 4.7vw;
-    width: 77vw;
-} */
 .kaine3 {
     position: absolute;
     top: 0vw;
-    left: 4vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 75vw;
 }
 .kaine4 {
     position: absolute;
     top: 43vw;
-    left: 25vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 32vw;
 }
 .kaine5 {
     position: absolute;
     top: 89vw;
-    left: 5vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 73vw;
 }
 .kaine6 {
     position: absolute;
     top: 131vw;
-    left: 5vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 73vw;
 }
 
 .kaine7 {
     position: absolute;
     top: 173vw;
-    left: 5vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 73vw;
 }
 
 .kaine8 {
     position: absolute;
     top: 215vw;
-    left: 24vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 33vw;
 }
 
 .kaine9 {
     position: absolute;
     top: 257vw;
-    left: 6vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 73vw;
 }
 .kaine10 {
     position: absolute;
     top: 299vw;
-    left: 24vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 33vw;
 }
 .kaine12 {
     position: absolute;
     top: 349vw;
-    left: 24vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 33vw;
 }
 
 .kaine11 {
     position: absolute;
     top: 399.3vw;
-    left: 24vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 33vw;
 }
 
@@ -667,7 +699,7 @@ header {
     position: absolute;
     top: 453vw;
     left: 6vw;
-    width: 70vw;
+    width: 90%;
     font-size: 0.9vw;
 
     line-height: 1.49vw;
@@ -730,64 +762,76 @@ header {
 .thestarslikedust2 {
     position: absolute;
     top: 101vw;
-    left: 4.7vw;
+    /* left: 4.7vw; */
+    left: 68%;
+    transform: translate(-68%, 0);
+
     width: 77vw;
 }
 .thestarslikedust3 {
     position: absolute;
     top: 0vw;
-    left: 4vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 76vw;
 }
 .thestarslikedust4 {
     position: absolute;
     top: 44vw;
-    left: 10vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 64vw;
 }
 .thestarslikedust5 {
     position: absolute;
     top: 88vw;
-    left: 3vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 75vw;
 }
 .thestarslikedust6 {
     position: absolute;
     top: 132vw;
-    left: 3vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 75vw;
 }
 
 .thestarslikedust7 {
     position: absolute;
     top: 176vw;
-    left: 16vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 48vw;
 }
 
 .thestarslikedust8 {
     position: absolute;
     top: 242vw;
-    left: 16vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 48vw;
 }
 
 .thestarslikedust9 {
     position: absolute;
     top: 308vw;
-    left: 16vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 48vw;
 }
 .thestarslikedust10 {
     position: absolute;
     top: 374vw;
-    left: 3vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 75vw;
 }
 .thestarslikedust11 {
     position: absolute;
     top: 426vw;
-    left: 3vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 75vw;
 }
 
@@ -866,6 +910,11 @@ header {
     left: 4.7vw;
     font-size: 1vw;
 }
+
+.menu04-t1-mobile {
+    display: none;
+}
+
 .menu04-t2 {
     position: absolute;
     top: 147vw;
@@ -877,25 +926,31 @@ header {
 .kimkiyoung2 {
     position: absolute;
     top: 149vw;
-    left: 4.7vw;
+    /* left: 4.7vw; */
+    left: 68%;
+    transform: translate(-68%, 0);
+
     width: 77vw;
 }
 .kimkiyoung3 {
     position: absolute;
     top: 0vw;
-    left: 3vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 75vw;
 }
 .kimkiyoung4 {
     position: absolute;
     top: 43vw;
-    left: 15vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 50vw;
 }
 .kimkiyoung5 {
     position: absolute;
     top: 87vw;
-    left: 16vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 48vw;
 }
 
@@ -979,11 +1034,17 @@ header {
     font-size: 1vw;
 
 }
+.menu05-t1-mobile {
+    display: none;
+}
 
 .blackrabbit2 {
     position: absolute;
     top:197vw;
-    left: 18vw;
+    /* left: 18vw; */
+    left: 50%;
+    transform: translate(-50%, 0);
+
     width: 44vw;
 
 }
@@ -991,7 +1052,8 @@ header {
     
     position: absolute;
     top:0vw;
-    left: 18vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 44vw;
 
 }
@@ -999,31 +1061,36 @@ header {
 .blackrabbit4 {
     position: absolute;
     top: 45vw;
-    left: 7vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 70vw;
 }
 .blackrabbit5 {
     position: absolute;
     top: 93vw;
-    left: 4vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 77vw;
 }
 .blackrabbit6 {
     position: absolute;
     top: 127vw;
-    left: 13vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 60vw;
 }
 .blackrabbit7 {
     position: absolute;
     top: 168vw;
-    left: 13vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 60vw;
 }
 .blackrabbit8 {
     position: absolute;
     top: 209vw;
-    left: 13vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 60vw;
 }
 
@@ -1109,6 +1176,9 @@ header {
     left: 4.7vw;
     font-size: 1vw;
 }
+.menu06-t1-mobile {
+    display: none;
+}
 .menu06-t2 {
     position: absolute;
     top:243vw;
@@ -1120,7 +1190,10 @@ header {
 .lastfascination2 {
     position: absolute;
     top:245vw;
-    left: 7vw;
+    /* left: 7vw; */
+    left: 50%;
+    transform: translate(-50%, 0);
+
     width: 70vw;
 
 }
@@ -1128,31 +1201,36 @@ header {
 .lastfascination3 {
     position: absolute;
     top: 0vw;
-    left: 7vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 70vw;
 }
 .lastfascination4 {
     position: absolute;
     top: 48vw;
-    left: 7vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 70vw;
 }
 .lastfascination5 {
     position: absolute;
     top: 137vw;
-    left: 15vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 50vw;
 }
 .lastfascination6 {
     position: absolute;
     top: 96vw;
-    left: 13vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 60vw;
 }
 .lastfascination7 {
     position: absolute;
     top: 208vw;
-    left: 7vw;
+    left: 50%;
+    transform: translate(-50%, 0);
     width: 70vw;
 }
 
@@ -1205,4 +1283,424 @@ header {
     top: 255.5vw;
     width: 88vw;
     /* left: 16vw; */
+}
+
+
+
+
+
+
+
+
+	
+@media (max-width: 1280px) {
+    .menu-container {
+        display: none;
+    }
+    .verticalline1 {
+        left: 3.9vw;
+        
+    }
+    .verticalline2 {
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+
+    .main-container {
+        width: 100vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+    
+    .allmenuline {
+        width: 100vw;
+    }
+
+    .allmainnumber {
+        font-size: 1vw;
+
+    }
+
+
+
+    .soundgarden2 {
+        left: 50%;
+        transform: translate(-50%, 0);
+        top: 5vw;
+    }
+    /* .menu01-n {
+        font-size: 1vw;
+        } */
+    
+    .menu01-t1 {
+        font-size: 1.5vw;
+        left: 6vw;
+    }
+    .menu01-t2 {
+        left: 55%;
+        transform: translate(-55%, 0); 
+        font-size: 1.5vw;
+    }
+    .menuline1 { 
+        top: 3.5vw;
+    }
+
+    .kaine2 {
+        top:53vw;
+
+        left: 50%;
+        transform: translate(-50%, 0); 
+    }
+    .menu02-n2 {
+        font-size: 1vw;
+        top:449.3vw;
+        left: 2vw;
+
+    }
+
+
+    .menu02-t1 {
+        font-size: 1.5vw;
+        left: 6vw;
+    }
+    .menu02-t2 {
+        left: 55%;
+        transform: translate(-55%, 0); 
+        font-size: 1.5vw;
+    }
+    .menuline2 { 
+        top: 51.5vw;
+    }
+
+
+    .description2-1 {
+        font-size: 1.5vw;
+    }
+    .description2-2 {
+        left: 55%;
+        /* transform: translate(-60%, 0);  */
+        font-size: 1.5vw;
+    }
+    .description2-3 {
+        font-size: 1.3vw;
+        line-height: 2vw;
+
+    }
+    .menuline2-2 {
+        top: 462.3vw;
+    }
+    
+
+    .thestarslikedust2 {
+        top: 102vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+    .menu03-t1 {
+        font-size: 1.5vw;
+        left: 6vw;
+    }
+    .menu03-t2 {
+        left: 55%;
+        transform: translate(-55%, 0); 
+        font-size: 1.5vw;
+    }
+    .menuline3 { 
+        top: 100.5vw;
+    }
+
+
+    .kimkiyoung2 {
+        top: 150vw;
+
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+    .menu04-t1 {
+        font-size: 1.5vw;
+        left: 6vw;
+    }
+    .menu04-t2 {
+        left: 55%;
+        transform: translate(-55%, 0); 
+        font-size: 1.5vw;
+    }
+    .menuline4 { 
+        top:148.5vw;
+    }
+
+
+    .blackrabbit2 {
+        top:198vw;
+    }
+    .menu05-t1 {
+        font-size: 1.5vw;
+        left: 6vw;
+    }
+    .menu05-t2 {
+        left: 55%;
+        transform: translate(-55%, 0); 
+        font-size: 1.5vw;
+    }
+    .menuline5 { 
+        top:196.5vw;
+    }
+
+
+
+
+
+
+    .lastfascination2 {
+        top:246vw;
+
+        left: 50%;
+        transform: translate(-50%, 0);
+    }  
+
+    .menu06-t1 {
+        font-size: 1.5vw;
+        left: 6vw;
+    }
+    .menu06-t2 {
+        left: 55%;
+        transform: translate(-55%, 0); 
+        font-size: 1.5vw;
+    }
+    .menuline6 { 
+        top:244.5vw;
+    }
+}
+
+
+
+
+
+@media (max-width: 950px) {
+    .headerimg{
+        width: 300vw;
+        left: -110vw;
+    }
+
+
+    .main-container{
+        /* width: 84vw; */
+        top: 25.7vw;
+        /* height: calc(100vh-50vw); */
+        /* height: 100vh; */
+    }
+
+
+    .menuline1 {
+        top:6.5vw;
+        /* width: 88vw; */
+        /* left: 16vw; */
+    }
+    
+    .menu01-n {
+        /* top:2.3vw;
+        font-size: 3vw;
+        line-height: ; */
+        display: none;
+    }
+    
+    .menu01-t1 {
+        position: absolute;
+        top:2.5vw;
+        left: 7vw;
+        font-size: 4vw;
+    }
+    .menu01-t2 {
+        position: absolute;
+        top:2.5vw;
+        left: 60%;
+        transform: translate(-60%, 0);
+        font-size: 4vw;
+    }
+    
+    .soundgarden2 {
+        top:9vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+    
+        width: 90vw;
+    }
+    
+
+    .menuline2 {
+        top:69vw;
+        /* width: 88vw; */
+        /* left: 16vw; */
+    }
+    
+    .menu02-n {
+        /* top:2.3vw;
+        font-size: 3vw;
+        line-height: ; */
+        display: none;
+    }
+    
+    .menu02-t1 {
+        position: absolute;
+        top:65vw;
+        left: 7vw;
+        font-size: 4vw;
+    }
+    .menu02-t2 {
+        position: absolute;
+        top:65vw;
+        left: 60%;
+        transform: translate(-60%, 0);
+        font-size: 4vw;
+    }
+    .kaine2 {
+        top: 71vw;
+        width: 90vw;
+
+    }
+    
+
+
+    .menuline3 {
+        top: 131vw;
+        /* width: 88vw; */
+        /* left: 16vw; */
+    }
+    
+    .menu03-n {
+        /* top:2.3vw;
+        font-size: 3vw;
+        line-height: ; */
+        display: none;
+    }
+    
+    .menu03-t1 {
+        position: absolute;
+        top: 127vw;
+        left: 7vw;
+        font-size: 4vw;
+    }
+    .menu03-t2 {
+        position: absolute;
+        top: 127vw;
+        left: 60%;
+        transform: translate(-60%, 0);
+        font-size: 4vw;
+    }
+    .thestarslikedust2 {
+        top: 133vw;
+        width: 107vw;
+    }
+
+
+    .menuline4 {
+        top: 205.5vw;
+        /* width: 88vw; */
+        /* left: 16vw; */
+    }
+    
+    .menu04-n {
+        /* top:2.3vw;
+        font-size: 3vw;
+        line-height: ; */
+        display: none;
+    }
+    
+    .menu04-t1 {
+        display: none;
+    }
+    .menu04-t1-mobile {
+        display: block;
+        position: absolute;
+        top: 197vw;
+        left: 7vw;
+        font-size: 4vw;
+
+    }
+    .menu04-t2 {
+        position: absolute;
+        top: 201.5vw;
+        left: 60%;
+        transform: translate(-60%, 0);
+        font-size: 4vw;
+    }
+    .kimkiyoung2 {
+        top: 208vw;
+        width: 90vw;
+    }
+
+
+
+
+    .menuline5 {
+        top: 269vw;
+        /* width: 88vw; */
+        /* left: 16vw; */
+    }
+    .menu05-n {
+        /* top:2.3vw;
+        font-size: 3vw;
+        line-height: ; */
+        display: none;
+    }
+    
+    .menu05-t1 {
+        display: none;
+    }
+    .menu05-t1-mobile {
+        display: block;
+        position: absolute;
+        top: 263vw;
+        left: 7vw;
+        font-size: 3vw;
+
+    }
+    .menu05-t2 {
+        position: absolute;
+        top: 265vw;
+        left: 60%;
+        transform: translate(-60%, 0);
+        font-size: 4vw;
+    }
+    .blackrabbit2 {
+        top: 272vw;
+        width: 90vw;
+    }
+
+    .menuline6 {
+        top: 373vw;
+        /* width: 88vw; */
+        /* left: 16vw; */
+    }
+    .menu06-n {
+        /* top:2.3vw;
+        font-size: 3vw;
+        line-height: ; */
+        display: none;
+    }
+    
+    .menu06-t1 {
+        display: none;
+    }
+    .menu06-t1-mobile {
+        display: block;
+        position: absolute;
+        top: 365vw;
+        left: 7vw;
+        font-size: 4vw;
+
+    }
+    .menu06-t2 {
+        position: absolute;
+        top: 369vw;
+        left: 60%;
+        transform: translate(-60%, 0);
+        font-size: 4vw;
+    }
+    .lastfascination2 {
+        top: 376vw;
+        width: 90vw;
+    }
+
 }
