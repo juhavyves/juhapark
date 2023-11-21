@@ -1312,6 +1312,10 @@ header {
         left: 50%;
         transform: translate(-50%, 0);
     }
+    .verticalline3 {
+        left: 96vw;
+    }
+
     .namedingbat2 {
         display: inline;
         position: absolute;
