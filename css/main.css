@@ -1346,6 +1346,125 @@ header {
         top: 3.5vw;
     }
 
+    .soundgarden3 {
+        width: 90vw;
+    }
+    .soundgarden4 {
+        top: 52vw;
+        width: 90vw;
+
+    }
+    .soundgarden5 {
+        top:108vw;
+        width: 90vw;
+    }
+    .soundgarden6 {
+        top: 164.3vw;
+        width: 90vw;
+    }
+    .soundgarden7 {
+        top: 220.5vw;
+        width: 90vw;
+    }
+
+    .soundgarden8 {
+        top: 277vw;
+        width: 90vw;
+    }
+    .soundgarden9 {
+        top: 334vw;
+        width: 90vw;
+    }
+    .soundgarden10 {
+        top: 452vw;
+        width: 90vw;
+    }
+    .soundgarden11 {
+        top: 570.5vw;
+        width: 90vw;
+    }
+    .soundgarden12 {
+        top: 623vw;
+        width: 90vw;
+    }
+    .soundgarden13 {
+        top: 676vw;
+        width: 90vw;
+    }
+    .soundgarden14 {
+        top: 747vw;
+        width: 90vw;
+    }
+    .soundgarden15 {
+        top: 840vw;
+        width: 90vw;
+    }
+    .soundgarden16 {
+        top: 916vw;
+        width: 90vw;
+    }
+    .soundgarden17 {
+        top: 992vw;
+        width: 90vw;
+    }
+    .soundgarden18 {
+        top: 1068vw;
+        width: 90vw;
+    }
+    .soundgarden19 {
+        top: 1162vw;
+        width: 90vw;
+    }
+    .soundgarden20 {
+        top: 1320vw;
+        width: 90vw;
+    }
+
+    .description1-1 {
+        top: 1420vw;
+        left: 6vw;
+        font-size: 2vw;
+    
+    }
+    .description1-2 {
+        top: 1420vw;
+        left: 55%;
+        /* transform: translate(-50%, 0); */
+        font-size: 2vw;
+
+    }
+    .description1-3 {
+        top: 1424.5vw;
+        font-size: 2vw;
+        line-height: 2.7vw;
+        width: 90vw;
+
+    }
+
+    .description1-4 {
+        top: 1420vw;
+        left: 60%;
+
+        font-size: 2vw;
+
+
+    }
+    .menuline1-1 {
+        top: 1422vw;
+    }
+    
+    .menuline1-2 {
+        top: 1440vw;
+    }
+    
+    
+
+
+
+
+
+
+
     .kaine2 {
         top:53vw;
 
@@ -1391,25 +1510,6 @@ header {
         top: 462.3vw;
     }
     
-    .soundgarden3 {
-        width: 90vw;
-    }
-    .soundgarden4 {
-        top: 52vw;
-        width: 90vw;
-
-    }
-    .soundgarden5 {
-        top:108vw;
-        width: 90vw;
-    }
-    .soundgarden6 {
-        top: 164.3vw;
-        width: 90vw;
-    }
-
-
-
 
 
 
@@ -1507,13 +1607,6 @@ header {
         width: 300vw;
         left: -110vw;
     }
-
-    
-
-
-
-
-
 
     .main-container{
         /* width: 84vw; */
