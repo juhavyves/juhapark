@@ -98,6 +98,9 @@ header {
     left: 1.3vw;
     width: 1.58vw;
 }
+.namedingbat2 {
+    display: none;
+}
 
 .name {
     /* margin-top: 0.612vw; */
@@ -1328,9 +1331,9 @@ header {
         display: inline;
         position: absolute;
                 z-index: 1;
-                top: 13.5vw;
+                top: 10vw;
                 left: .5vw;
-        width: 5vw;
+        width: 8vw;
     }
 
 
@@ -2131,9 +2134,9 @@ header {
 
     .namedingbat2 {
         z-index: 1;
-        top: 20vw;
+        top: 15vw;
         left: .5vw;
-        width: 8vw;
+        width: 12vw;
     }
 
     .work-1 {
