@@ -1288,12 +1288,6 @@ header {
 
 
 
-.namedingbat2 {
-    display: none;
-}
-
-
-
 	
 @media (max-width: 1280px) {
     .headerimg{
@@ -1304,9 +1298,22 @@ header {
     .menu-container {
         display: none;
     }
+    .menu-container-mobile {
+        width: 100vw;
+        position: absolute;
+        overflow-y: scroll;
+        /* background-color: aqua; */
+        /* width: calc(100vw-16.49vw); */
+        top: 17vw;
+        /* height: 82vh; */
+        height: calc(100vh-8.5vw);
+        /* height: calc(100vh-50vw); */
+        /* height: 100vh; */
+        bottom: 1vw;
+    
+    }
     .verticalline1 {
         left: 3.9vw;
-        
     }
     .verticalline2 {
         left: 50%;
@@ -1327,11 +1334,144 @@ header {
 
 
 
+
+    .melody {
+        width: 84vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+        top: 1vw;
+    }
+    .namedingbat {
+        width: 12vw;
+        top: 45.5vw;
+        left: 4vw;
+    }
+    .name {
+        font-size: 6vw;
+        top: 53vw;
+        left: 18vw;
+    }
+    .birth {
+        font-size: 3.4vw;
+        top: 59vw;
+        left: 18vw;
+    }
+    .description {
+        width: 90vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+
+        font-size: 4vw;
+        top: 70vw;
+        line-height: 5vw;
+    }
+    .flower {
+        width: 95vw;
+        top: 180vw;
+        left: 40%;
+        transform: translate(-40%, 0);
+
+    }
+    .yeardingbat {
+        width: 7vw;
+        left: 4vw;
+        top: 223vw;
+
+    }
+    .year-2023 {
+        top: 225vw;
+        font-size: 6vw;
+        left: 13.5vw;
+
+    }
+    .work-1 {
+        top: 235vw;
+        font-size: 5.8vw;
+        left: 13.5vw;
+        line-height: 6.5vw;
+    }
+    .soundgarden1 {
+        top: 249vw;
+        width: 73vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+
+    }
+    .work-2 {
+        top: 271vw;
+        font-size: 5.8vw;
+        left: 13.5vw;
+        line-height: 6.5vw;
+    }
+    .kaine1 {
+        top: 285vw;
+        width: 73vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+
+    }
+    .work-3 {
+        top: 308vw;
+        font-size: 5.8vw;
+        left: 13.5vw;
+        line-height: 6.5vw;
+    }
+    .thestarslikedust1 {
+        top: 322vw;
+        width: 73vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+
+        /* left: 17vw; */
+    }
+    .work-4 {
+        top: 345vw;
+        font-size: 5.8vw;
+        left: 13.5vw;
+        line-height: 6.5vw;
+    }
+    .kimkiyoung1 {
+        top: 367vw;
+        width: 73vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+
+    }
+    .work-5 {
+        top: 390vw;
+        font-size: 5.8vw;
+        left: 13.5vw;
+        line-height: 6.5vw;
+    }
+    .blackrabbit1 {
+        top: 411.5vw;
+        width: 73vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+
+    }
+    .work-6 {
+        top: 434vw;
+        font-size: 5.8vw;
+        left: 13.5vw;
+        line-height: 6.5vw;
+    }
+    .lastfascination1 {
+        top: 456vw;
+        width: 73vw;
+        left: 50%;
+        transform: translate(-50%, 0);
+
+    }
+    
+
+
+
     .main-container {
         width: 100vw;
         left: 50%;
         transform: translate(-50%, 0);
-        top: 17.4vw;
+        top: 17.4vw;    
 
     }
     
@@ -1464,9 +1604,10 @@ header {
     }
 
     .description1-4 {
-        top: 1420vw;
+        /* top: 1420vw;
         left: 60%;
-        font-size: 2vw;
+        font-size: 2vw; */
+        display: none;
     }
 
     .menuline1-1 {
@@ -1559,20 +1700,19 @@ header {
 
     .description2-1 {
         top: 925vw;
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .description2-2 {
         top: 925vw;
 
         left: 55%;
         /* transform: translate(-60%, 0);  */
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .description2-3 {
         top: 929vw;
-
-        font-size: 1.3vw;
-        line-height: 2vw;
+        line-height: 2.7vw;
+        font-size: 2vw;
 
     }
     .menuline2-1 {
@@ -1608,6 +1748,78 @@ header {
         top: 100.5vw;
     }
 
+    .thestarslikedust3 {
+        width: 105vw;
+    }
+    .thestarslikedust4 {
+        width: 90vw;
+        top: 63vw;
+    }
+    .thestarslikedust5 {
+        top: 127vw;
+        width: 90vw;
+    }
+    .thestarslikedust6 {
+        top: 180vw;
+        width: 90vw;
+    }
+    .thestarslikedust7 {
+        top: 235vw;
+        width: 90vw;
+    }
+    .thestarslikedust8 {
+        top: 358vw;
+        width: 90vw;
+    }
+    .thestarslikedust9 {
+        top: 480vw;
+        width: 90vw;
+    }
+    .thestarslikedust10 {
+        top: 602vw;
+        width: 90vw;
+    }
+    .thestarslikedust11 {
+        top: 665vw;
+        width: 90vw;
+    }
+    .menu02-n2 {
+        position: absolute;
+        top: 733vw;
+        font-size: 1.3vw;
+
+    }
+
+    .description3-1 {
+        top: 730vw;
+        font-size: 1.5vw;
+    }
+    .description3-2 {
+        top: 730vw;
+
+        left: 55%;
+        /* transform: translate(-60%, 0);  */
+        font-size: 1.5vw;
+    }
+    .description3-3 {
+        top: 733vw;
+
+        font-size: 1.3vw;
+        line-height: 2vw;
+
+    }
+    .menuline3-1 {
+        top: 731.5vw;
+    }
+
+    .menuline3-2 {
+        top: 742vw;
+    }
+    
+
+
+
+
 
     .kimkiyoung2 {
         top: 150vw;
@@ -1629,6 +1841,45 @@ header {
     }
 
 
+    .kimkiyoung3 {
+        width: 90vw;
+    }
+    .kimkiyoung4 {
+        width: 90vw;
+        top: 53vw
+    }
+    .kimkiyoung5 {
+        width: 90vw;
+        top: 133vw;
+    }
+
+    .description4-1 {
+        top: 220vw;
+        font-size: 1.5vw;
+    }
+    .description4-2 {
+        top: 220vw;
+        left: 55%;
+        /* transform: translate(-60%, 0);  */
+        font-size: 1.5vw;
+    }
+    .description4-3 {
+        top: 223vw;
+
+        font-size: 1.3vw;
+        line-height: 2vw;
+
+    }
+    .menuline4-1 {
+        top: 221.5vw;
+    }
+
+    .menuline4-2 {
+        top: 230vw;
+    }
+
+
+
     .blackrabbit2 {
         top:198vw;
     }
@@ -1645,7 +1896,57 @@ header {
         top:196.5vw;
     }
 
+    .blackrabbit3 {
+        width: 90vw;
 
+    }
+    .blackrabbit4 {
+        width: 90vw;
+        top: 91vw;
+    }
+    .blackrabbit5 {
+        width: 90vw;
+        top: 153.5vw;
+    }
+    .blackrabbit6 {
+        width: 90vw;
+        top: 195vw;
+    }
+    .blackrabbit7 {
+        width: 90vw;
+        top: 256vw;
+    }
+    .blackrabbit8 {
+        width: 90vw;
+        top: 317vw;
+    }
+    .description5-1 {
+        top: 383vw;
+        font-size: 1.5vw;
+    }
+    .description5-2 {
+        top: 383vw;
+        left: 55%;
+        /* transform: translate(-60%, 0);  */
+        font-size: 1.5vw;
+    }
+    .description5-3 {
+        top: 386vw;
+
+        font-size: 1.3vw;
+        line-height: 2vw;
+
+    }
+    .menuline5-1 {
+        top: 384.5vw;
+        width: 100vw;
+    }
+
+    .menuline5-2 {
+        top: 393vw;
+        width: 100vw;
+
+    }
 
 
 
@@ -1669,6 +1970,55 @@ header {
     .menuline6 { 
         top:244.5vw;
     }
+
+    .lastfascination3 {
+        width: 90vw;
+    }
+    .lastfascination4 {
+        width: 90vw;
+        top: 61vw;
+    }
+    .lastfascination6 {
+        width: 90vw;
+        top: 124.5vw;
+    }
+    .lastfascination5 {
+        width: 90vw;
+        top: 188vw;
+    }
+    .lastfascination7 {
+        width: 90vw;
+        top: 318vw;
+    }
+    .description6-1 {
+        top: 375vw;
+        font-size: 1.5vw;
+    }
+    .description6-2 {
+        top: 375vw;
+        left: 55%;
+        /* transform: translate(-60%, 0);  */
+        font-size: 1.5vw;
+    }
+    .description6-3 {
+        top: 378vw;
+
+        font-size: 1.3vw;
+        line-height: 2vw;
+
+    }
+    .menuline6-1 {
+        top: 376.5vw;
+        width: 100vw;
+    }
+
+    .menuline6-2 {
+        top: 384vw;
+        width: 100vw;
+
+    }
+
+
 }
 
 
@@ -1680,12 +2030,37 @@ header {
         width: 300vw;
         left: -110vw;
     }
+    .menu-container-mobile {
+        top: 25vw;    
+    }
+
     .namedingbat2 {
         z-index: 1;
         top: 20vw;
         left: .5vw;
         width: 8vw;
     }
+
+    .work-1 {
+        line-height: 7vw;
+    }
+    .work-2 {
+        line-height: 7vw;
+    }
+    .work-3 {
+        line-height: 7vw;
+    }
+    .work-4 {
+        line-height: 7vw;
+    }
+    .work-5 {
+        line-height: 7vw;
+    }
+    .work-6 {
+        line-height: 7vw;
+    }
+
+
 
     .main-container{
         /* width: 84vw; */
@@ -1731,16 +2106,17 @@ header {
     
     .description1-1 {
         left: 6vw;
-        font-size: 3vw;
+        font-size: 4vw;
+        width: 60vw;
     
     }
     .description1-2 {
-        font-size: 3vw;
+        font-size: 4vw;
 
     }
     .description1-3 {
-        font-size: 2.6vw;
-        line-height: 3.5vw;
+        font-size: 3vw;
+        line-height: 3.9vw;
         /* width: 90vw; */
 
     }
