@@ -842,6 +842,7 @@ header {
     font-size: 0.8vw;
 
 }
+
 .description3-1 {
     position: absolute;
     top: 478.5vw;
@@ -1489,23 +1490,25 @@ header {
     .soundgarden2 {
         left: 50%;
         transform: translate(-50%, 0);
-        top: 5vw;
+        top: 6vw;
+        width: 88vw;
     }
-    /* .menu01-n {
-        font-size: 1vw;
-        } */
+    .menu01-n {
+        font-size: 1.4vw;
+        line-height: 1.2svw;
+        }
     
     .menu01-t1 {
-        font-size: 1.5vw;
+        font-size: 2vw;
         left: 6vw;
     }
     .menu01-t2 {
         left: 55%;
         transform: translate(-55%, 0); 
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .menuline1 { 
-        top: 3.5vw;
+        top: 4vw;
     }
 
     .soundgarden3 {
@@ -1581,6 +1584,13 @@ header {
         top: 1320vw;
         width: 90vw;
     }
+    .menu01-n2 {
+        font-size: 1.4vw;
+        line-height: 1.8vw;
+        top: 1418.2vw;
+        left: 2vw;
+
+    }
 
     .description1-1 {
         top: 1420vw;
@@ -1599,7 +1609,7 @@ header {
         top: 1425vw;
         font-size: 2vw;
         line-height: 2.7vw;
-        width: 90vw;
+        width: 88vw;
 
     }
 
@@ -1615,7 +1625,7 @@ header {
     }
     
     .menuline1-2 {
-        top: 1440vw;
+        top: 1439.3vw;
     }
     
     
@@ -1627,30 +1637,40 @@ header {
 
 
     .kaine2 {
-        top:53vw;
-
+        top:62vw;
         left: 50%;
         transform: translate(-50%, 0); 
+        width: 88vw;
+
     }
-    .menu02-n2 {
+    .menu02-n {
+        font-size: 1.4vw;
+        line-height: 1.2svw;
+        top:57vw;
+
+        }
+    /* .menu02-n2 {
         font-size: 1vw;
         top:449.3vw;
         left: 2vw;
 
-    }
+    } */
 
 
     .menu02-t1 {
-        font-size: 1.5vw;
+        font-size: 2vw;
+        top: 58vw;
         left: 6vw;
     }
     .menu02-t2 {
         left: 55%;
         transform: translate(-55%, 0); 
-        font-size: 1.5vw;
+        font-size: 2vw;
+        top: 58vw;
+
     }
     .menuline2 { 
-        top: 51.5vw;
+        top: 60vw;
     }
 
 
@@ -1696,6 +1716,13 @@ header {
         top: 790vw;
         width: 90vw;
     }
+    .menu02-n2 {
+        font-size: 1.4vw;
+        line-height: 1.7vw;
+        top: 923vw;
+        left: 2vw;
+
+    }
 
 
     .description2-1 {
@@ -1710,9 +1737,11 @@ header {
         font-size: 2vw;
     }
     .description2-3 {
-        top: 929vw;
+        top: 929.4vw;
         line-height: 2.7vw;
         font-size: 2vw;
+        width: 88vw;
+
 
     }
     .menuline2-1 {
@@ -1720,7 +1749,7 @@ header {
     }
 
     .menuline2-2 {
-        top: 938.5vw;
+        top: 945vw;
     }
     
 
@@ -1731,21 +1760,27 @@ header {
 
 
     .thestarslikedust2 {
-        top: 102vw;
+        top: 118vw;
         left: 50%;
-        transform: translate(-50%, 0);
+        transform: translate(-50%, 0); 
+        width: 105vw;
     }
+    .menu03-n {
+        font-size: 1.4vw;
+        line-height: 1.2svw;
+        top: 113vw;
+        left: 2vw;
+
+    }
+
     .menu03-t1 {
-        font-size: 1.5vw;
+        top: 114vw;
+
+        font-size: 2vw;
         left: 6vw;
     }
-    .menu03-t2 {
-        left: 55%;
-        transform: translate(-55%, 0); 
-        font-size: 1.5vw;
-    }
     .menuline3 { 
-        top: 100.5vw;
+        top: 116vw;
     }
 
     .thestarslikedust3 {
@@ -1783,37 +1818,38 @@ header {
         top: 665vw;
         width: 90vw;
     }
-    .menu02-n2 {
-        position: absolute;
-        top: 733vw;
-        font-size: 1.3vw;
+    .menu03-n2 {
+        font-size: 1.4vw;
+        line-height: 1.7vw;
+        top: 730vw;
+        left: 2vw;
 
     }
 
     .description3-1 {
-        top: 730vw;
-        font-size: 1.5vw;
+        top: 732vw;
+        font-size: 2vw;
     }
     .description3-2 {
-        top: 730vw;
+        top: 732vw;
 
         left: 55%;
         /* transform: translate(-60%, 0);  */
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .description3-3 {
-        top: 733vw;
-
-        font-size: 1.3vw;
-        line-height: 2vw;
+        top: 736.5vw;
+        width: 88vw;
+        font-size: 2vw;
+        line-height: 2.7vw;
 
     }
     .menuline3-1 {
-        top: 731.5vw;
+        top: 734vw;
     }
 
     .menuline3-2 {
-        top: 742vw;
+        top: 751vw;
     }
     
 
@@ -1822,22 +1858,33 @@ header {
 
 
     .kimkiyoung2 {
-        top: 150vw;
-
+        top: 184vw;
+        width: 88vw;
         left: 50%;
         transform: translate(-50%, 0);
     }
+    .menu03-n {
+        font-size: 1.4vw;
+        line-height: 1.2svw;
+        top: 179vw;
+        left: 2vw;
+
+    }
+
     .menu04-t1 {
-        font-size: 1.5vw;
+        font-size: 2vw;
         left: 6vw;
+        top: 180vw;
     }
     .menu04-t2 {
+        top: 180vw;
+
         left: 55%;
         transform: translate(-55%, 0); 
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .menuline4 { 
-        top:148.5vw;
+        top: 182vw;
     }
 
 
@@ -1852,48 +1899,67 @@ header {
         width: 90vw;
         top: 133vw;
     }
+    .menu04-n2 {
+        font-size: 1.4vw;
+        line-height: 1.7vw;
+        top: 217.5vw;
+        left: 2vw;
+
+    }
 
     .description4-1 {
         top: 220vw;
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .description4-2 {
         top: 220vw;
         left: 55%;
         /* transform: translate(-60%, 0);  */
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .description4-3 {
-        top: 223vw;
-
-        font-size: 1.3vw;
-        line-height: 2vw;
+        top: 224vw;
+        width: 88vw;
+        font-size: 2vw;
+        line-height: 2.7vw;
 
     }
     .menuline4-1 {
-        top: 221.5vw;
+        top: 222vw;
     }
 
     .menuline4-2 {
-        top: 230vw;
+        top: 235.5vw;
     }
 
 
 
     .blackrabbit2 {
-        top:198vw;
+        width: 88vw;
+        top:241vw;
     }
+    .menu04-n {
+        font-size: 1.4vw;
+        line-height: 1.2svw;
+        top:236vw;
+        left: 2vw;
+
+    }
+
     .menu05-t1 {
-        font-size: 1.5vw;
+        top: 237vw;
+        font-size: 2vw;
         left: 6vw;
     }
     .menu05-t2 {
+        top: 237vw;
+
         left: 55%;
         transform: translate(-55%, 0); 
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .menuline5 { 
-        top:196.5vw;
+        top: 239vw;
     }
 
     .blackrabbit3 {
@@ -1920,30 +1986,39 @@ header {
         width: 90vw;
         top: 317vw;
     }
+    .menu05-n2 {
+        font-size: 1.4vw;
+        line-height: 1.7vw;
+        top: 380.6vw;
+        left: 2vw;
+
+    }
+
     .description5-1 {
         top: 383vw;
-        font-size: 1.5vw;
+        font-size: 2vw;
+        width: 80vw;
     }
     .description5-2 {
         top: 383vw;
         left: 55%;
         /* transform: translate(-60%, 0);  */
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .description5-3 {
-        top: 386vw;
-
-        font-size: 1.3vw;
-        line-height: 2vw;
+        top: 387vw;
+        width: 88vw;
+        font-size: 2vw;
+        line-height: 2.7vw;
 
     }
     .menuline5-1 {
-        top: 384.5vw;
+        top: 385vw;
         width: 100vw;
     }
 
     .menuline5-2 {
-        top: 393vw;
+        top: 396vw;
         width: 100vw;
 
     }
@@ -1952,23 +2027,34 @@ header {
 
 
     .lastfascination2 {
-        top:246vw;
+        top:336vw;
+        width: 88vw;
 
         left: 50%;
         transform: translate(-50%, 0);
     }  
+    .menu06-n {
+        font-size: 1.4vw;
+        line-height: 1.2svw;
+        top: 331vw;
+        left: 2vw;
+
+    }
 
     .menu06-t1 {
-        font-size: 1.5vw;
+        font-size: 2vw;
+        top: 331.5vw;
+
         left: 6vw;
     }
     .menu06-t2 {
+        top: 331.5vw;
         left: 55%;
         transform: translate(-55%, 0); 
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .menuline6 { 
-        top:244.5vw;
+        top: 333.5vw;
     }
 
     .lastfascination3 {
@@ -1990,30 +2076,39 @@ header {
         width: 90vw;
         top: 318vw;
     }
+    .menu06-n2 {
+        font-size: 1.4vw;
+        line-height: 1.7vw;
+        top: 372.5vw;
+        left: 2vw;
+
+    }
+
     .description6-1 {
         top: 375vw;
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .description6-2 {
         top: 375vw;
         left: 55%;
         /* transform: translate(-60%, 0);  */
-        font-size: 1.5vw;
+        font-size: 2vw;
     }
     .description6-3 {
-        top: 378vw;
+        top: 379vw;
+        width: 88vw;
 
-        font-size: 1.3vw;
-        line-height: 2vw;
+        font-size: 2vw;
+        line-height: 2.7vw;
 
     }
     .menuline6-1 {
-        top: 376.5vw;
+        top: 377vw;
         width: 100vw;
     }
 
     .menuline6-2 {
-        top: 384vw;
+        top: 385.5vw;
         width: 100vw;
 
     }
@@ -2071,7 +2166,7 @@ header {
 
 
     .menuline1 {
-        top:7vw;
+        top:6.6vw;
         width: 200vw;
     }
     
@@ -2086,14 +2181,14 @@ header {
         position: absolute;
         top:2.5vw;
         left: 7vw;
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
     .menu01-t2 {
         position: absolute;
         top:2.5vw;
         left: 60%;
         transform: translate(-60%, 0);
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
     
     .soundgarden2 {
@@ -2103,15 +2198,18 @@ header {
     
         width: 90vw;
     }
-    
+    .menu01-n2 {
+        display: none;
+    }
+
     .description1-1 {
         left: 6vw;
-        font-size: 4vw;
+        font-size: 3.5vw;
         width: 60vw;
     
     }
     .description1-2 {
-        font-size: 4vw;
+        font-size: 3.5vw;
 
     }
     .description1-3 {
@@ -2133,8 +2231,7 @@ header {
     
     .menuline1-2 {
         width: 200vw;
-
-        top: 1451vw;
+        top: 1458vw;
     }
 
 
@@ -2161,41 +2258,45 @@ header {
         position: absolute;
         top:65vw;
         left: 7vw;
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
     .menu02-t2 {
         position: absolute;
         top:65vw;
         left: 60%;
         transform: translate(-60%, 0);
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
     .kaine2 {
         top: 71vw;
         width: 90vw;
 
     }
+    .menu02-n2 {
+        display: none;
+    }
 
     .description2-1 {
         left: 6vw;
-        font-size: 3vw;
+        font-size: 3.5vw;
     }
     .description2-2 {
-        font-size: 3vw;
+        font-size: 3.5vw;
     }
     .description2-3 {
-        font-size: 2.6vw;
-        line-height: 3.5vw;
+        top: 930vw;
+        font-size: 3vw;
+        line-height: 3.9vw;
 
     }
     .menuline2-1 {
         width: 200vw;
-        top: 927vw;
+        top: 927.5vw;
     }
 
     .menuline2-2 {
         width: 200vw;
-        top: 962vw;
+        top: 966vw;
     }
 
 
@@ -2223,19 +2324,47 @@ header {
         position: absolute;
         top: 127vw;
         left: 7vw;
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
     .menu03-t2 {
         position: absolute;
         top: 127vw;
         left: 60%;
         transform: translate(-60%, 0);
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
     .thestarslikedust2 {
         top: 133vw;
         width: 107vw;
     }
+    .menu03-n2 {
+        display: none;
+    }
+
+    .description3-1 {
+        left: 6vw;
+        font-size: 3.5vw;
+    }
+    .description3-2 {
+        font-size: 3.5vw;
+    }
+    .description3-3 {
+        font-size: 3vw;
+        line-height: 3.9vw;
+
+    }
+    .menuline3-1 {
+        width: 200vw;
+    }
+
+    .menuline3-2 {
+        width: 200vw;
+        top: 765vw;
+    }
+
+
+
+
 
 
     .menuline4 {
@@ -2259,30 +2388,57 @@ header {
     .menu04-t1-mobile {
         display: block;
         position: absolute;
-        top: 197vw;
+        top: 198vw;
         left: 7vw;
-        font-size: 4vw;
-
+        font-size: 3.5vw;
     }
     .menu04-t2 {
         position: absolute;
-        top: 201.5vw;
+        top: 202vw;
         left: 60%;
         transform: translate(-60%, 0);
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
     .kimkiyoung2 {
         top: 208vw;
         width: 90vw;
+    }
+    .menu04-n2 {
+        display: none;
+    }
+
+    .description4-1 {
+        left: 6vw;
+        font-size: 3.5vw;
+        line-height: 4vw;
+    }
+    .description4-2 {
+        top: 225.3vw;
+
+        font-size: 3.5vw;
+    }
+    .description4-3 {
+        top: 232vw;
+        font-size: 3vw;
+        line-height: 3.9vw;
+
+    }
+    .menuline4-1 {
+        width: 200vw;
+        top: 228vw;
+    }
+
+    .menuline4-2 {
+        width: 200vw;
+        top: 257vw;
     }
 
 
 
 
     .menuline5 {
-        top: 269vw;
+        top: 270vw;
         width: 200vw;
-
         /* width: 88vw; */
         /* left: 16vw; */
     }
@@ -2301,23 +2457,61 @@ header {
         position: absolute;
         top: 263vw;
         left: 7vw;
-        font-size: 3vw;
+        font-size: 3.5vw;
 
     }
     .menu05-t2 {
         position: absolute;
-        top: 265vw;
+        top: 265.5vw;
         left: 60%;
         transform: translate(-60%, 0);
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
     .blackrabbit2 {
-        top: 272vw;
+        top: 273vw;
         width: 90vw;
     }
+    .menu05-n2 {
+        display: none;
+    }
 
+    .description5-1 {
+        left: 6vw;
+        font-size: 3.5vw;
+        width: 40vw;
+        line-height: 4vw;
+
+    }
+    .description5-2 {
+        top: 388.5vw;
+        font-size: 3.5vw;
+    }
+    .description5-3 {
+        top: 394vw;
+
+        font-size: 3vw;
+        line-height: 3.9vw;
+
+    }
+    .menuline5-1 {
+        width: 200vw;
+        top: 391vw;
+
+    }
+
+    .menuline5-2 {
+        width: 200vw;
+        top: 415vw;
+    }
+
+
+
+
+
+
+    
     .menuline6 {
-        top: 373vw;
+        top: 374vw;
         width: 200vw;
 
         /* width: 88vw; */
@@ -2336,21 +2530,52 @@ header {
     .menu06-t1-mobile {
         display: block;
         position: absolute;
-        top: 365vw;
+        top: 367vw;
         left: 7vw;
-        font-size: 4vw;
+        font-size: 3.5vw;
 
     }
     .menu06-t2 {
         position: absolute;
-        top: 369vw;
+        top: 370vw;
         left: 60%;
         transform: translate(-60%, 0);
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
     .lastfascination2 {
-        top: 376vw;
+        top: 377vw;
         width: 90vw;
+    }
+    .menu06-n2 {
+        display: none;
+    }
+
+    .description6-1 {
+        left: 6vw;
+        font-size: 3.5vw;
+        width: 40vw;
+        line-height: 4vw;
+
+    }
+    .description6-2 {
+        top: 380.5vw;
+        font-size: 3.5vw;
+    }
+    .description6-3 {
+        top: 386vw;
+        font-size: 3vw;
+        line-height: 3.9vw;
+
+    }
+    .menuline6-1 {
+        width: 200vw;
+        top: 383vw;
+
+    }
+
+    .menuline6-2 {
+        width: 200vw;
+        top: 399vw;
     }
 
 }
